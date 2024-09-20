@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<br><br>All of my projects are available at github.com/regmibishal42<br>Ask me about node,NestJs,GraphQl,PostGres and Go<br>How to reach me regmibishal42@gmail.com<br>Fun fact I am a really good listener<br>
+<br><br>All of my projects are available at github.com/regmibishal42<br>Ask me about node,NestJs,GraphQL,PostGres and Go<br>How to reach me regmibishal42@gmail.com<br>Fun fact I am a really good listener<br>
 Portfolio: https://www.bishalregmi.com.np <br>
 
 
